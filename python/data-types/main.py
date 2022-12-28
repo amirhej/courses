@@ -1,0 +1,15 @@
+strType = 'Hello, Freind' 
+intType = 10
+floatType = 11.5
+complexType = 2j
+listType = ['cat', 'dog', 'lion']
+tupleType = ('car', 'motorcycle', 'train')
+rangeType = range(12)
+dictType = {"id": "x12fff", "begin": 12}
+setType = {"ford", "chevrolet", "cadillac"}
+frozensetType = frozenset({"dodge", "jeep", "ram"})
+boolType = True
+bytesType = b"python"
+bytearrayType = bytearray(6)
+memoryviewType = memoryview(bytes(7))
+NoneTypeType = None
