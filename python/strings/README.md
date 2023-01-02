@@ -113,13 +113,21 @@ Plus those, we can use index numbers `{0}` to be sure the arguments are placed i
 ## :pig: Escape characters
 
 `\`` -> single quote
+
 `\\` -> backslash
+
 `\n` -> new line
+
 `\r` -> carriage return
+
 `\t` -> tab
+
 `\b` -> backspace
+
 `\f` -> form feed
+
 `\ooo` -> octal value
+
 `\xhh` -> hex value
 
 
