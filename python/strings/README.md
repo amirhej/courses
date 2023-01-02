@@ -112,7 +112,7 @@ Plus those, we can use index numbers `{0}` to be sure the arguments are placed i
 
 ## :pig: Escape characters
 
-`\`` -> single quote
+`\```` -> single quote
 
 `\\` -> backslash
 
