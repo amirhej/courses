@@ -7,7 +7,7 @@ Variables are used to store information to be referenced and manipulated in a co
 
 ## Creating:
 
-Use a assing(equal symbol) `=` operator to assign a value to it, 
+Use an assing(equal symbol) `=` operator to assign a value to it, 
 The language has no command for declaring a variable.
 
 ## Naming: 
