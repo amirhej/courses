@@ -14,39 +14,39 @@ C is very powerful; it has been used to develop operating systems, databases, ap
 
 + :star_struck: Basic:
 
-- Syntax
+    - Syntax
 
-- Print text
+    - Print text
 
-- User input
+    - User input
 
-- Comments
+    - Comments
 
 + :relaxed: Variables:
-    
-- Declaration
+        
+    - Declaration
 
-- Data typee
+    - Data typee
 
-- Constants
+    - Constants
 
 + :relieved: Operators
 
 + :smirk: If...Else
 
-- Booleans
+    - Booleans
 
-- Conditional expression
+    - Conditional expression
 
 + :disguised_face: Switch
 
 + :partying_face: Loops
 
-- While loop
+    - While loop
 
-- For loop
+    - For loop
 
-- Break/Continue
+    - Break/Continue
 
 + :sunglasses: Arrays
 
@@ -58,11 +58,11 @@ C is very powerful; it has been used to develop operating systems, databases, ap
 
 + :stuck_out_tongue_winking_eye: Functions
 
-- Parameters
+    - Parameters
 
-- Declaration
+    - Declaration
 
-- Recursion
+    - Recursion
 
 + :money_mouth_face: Structures
 
