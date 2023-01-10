@@ -67,3 +67,11 @@ C is very powerful; it has been used to develop operating systems, databases, ap
 + :money_mouth_face: Structures
 
 + :thinking: Enums
+
+## Target:
+
+All those who want to learn C language.
+
+> Made with love :gift_heart:
+
+[Reference](https://w3schools.com)
