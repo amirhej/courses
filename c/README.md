@@ -18,8 +18,6 @@ C is very powerful; it has been used to develop operating systems, databases, ap
 
     - Print text
 
-    - User input
-
     - Comments
 
 + :relaxed: Variables:
@@ -29,6 +27,8 @@ C is very powerful; it has been used to develop operating systems, databases, ap
     - Data typee
 
     - Constants
+
++ :yawning_face: User input
 
 + :relieved: Operators
 
