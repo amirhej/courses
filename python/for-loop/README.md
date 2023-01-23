@@ -1,6 +1,6 @@
 # For Loop
 
-## Definition [1]
+## Definition [^1]
 
 Python For loop is used for sequential traversal i.e. it is used for iterating over an iterable like String, Tuple, List, Set or Dictionary.
 
@@ -47,4 +47,4 @@ The Python `range()` function returns a sequence of numbers, in a given range. T
 
 Returns a range type object
 
-Reference: [1](https://www.geeksforgeeks.org/python-for-loops)
+Reference: [^1](https://www.geeksforgeeks.org/python-for-loops)
