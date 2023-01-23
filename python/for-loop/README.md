@@ -47,4 +47,5 @@ The Python `range()` function returns a sequence of numbers, in a given range. T
 
 Returns a range type object
 
-Reference: [^1](https://www.geeksforgeeks.org/python-for-loops)
+Reference: 
+[^1]: [geeksforgeeks](https://www.geeksforgeeks.org/python-for-loops)
